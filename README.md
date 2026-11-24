@@ -58,6 +58,7 @@ Platform features change. Prefer official help pages linked in `research-notes.m
 - `SKILL.md` — the skill (when to use, prompt template, producer lenses, mix vocabulary, metatag cheat sheet, example prompts, DAW checklist)
 - `research-notes.md` — sources and a verified-vs-folklore table
 - `examples/dark-trap.md` — a complete dark atmospheric trap prompt
+- `generations/` - a log of real tracks made with the skill: exact inputs, settings, takes, and lessons (starting with Zaal's Generation 1)
 - `LICENSE` — MIT
 
 ## License
