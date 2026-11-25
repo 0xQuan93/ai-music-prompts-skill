@@ -34,3 +34,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 | --- | --- | --- | --- | --- |
 | Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | Done, Zaal picked Take A (v6), 20 credits |
 | Zaal (BetterCallZaal) | [002](zaal/gen-002-electric-vibez-v2-clear-vocals/) | Electric Vibez: Clear Signal | Club transformation + Rubin reducer | 4 songs generated, auto-reviewed, 20 credits |
+| Zaal (BetterCallZaal) | [003](zaal/gen-003-club-workout-bangers/) | Rep Count / Red Line | Club transformation | 4 songs generated, auto-reviewed, 20 credits |

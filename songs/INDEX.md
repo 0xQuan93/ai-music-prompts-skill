@@ -10,6 +10,8 @@ One row per generation. The full record (style prompt, lyrics, Exclude list, set
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WaveWarZ, the electric vibez (v2) | Zaal 1 | 25 Nov 2026 | v6, v6-wild | 4 | 20 | Take A (v6) | Not started | [gen-001](../generations/zaal/gen-001-electric-vibez-v2/) |
 | Electric Vibez: Clear Signal | Zaal 2 | 25 Nov 2026 | v6 | 4 | 20 | Pending (A2 scored best) | Not started | [gen-002](../generations/zaal/gen-002-electric-vibez-v2-clear-vocals/) |
+| Rep Count | Zaal 3 | 25 Nov 2026 | v6 | 2 | 10 | Pending | Not started | [gen-003](../generations/zaal/gen-003-club-workout-bangers/) |
+| Red Line | Zaal 3 | 25 Nov 2026 | v6 | 2 | 10 | Pending (B2 cleanest vocal) | Not started | [gen-003](../generations/zaal/gen-003-club-workout-bangers/) |
 
 ## Credit ledger (Suno)
 
@@ -19,6 +21,7 @@ Running balance, one line per generation. Read credits with Suno's account usage
 | --- | --- | --- | --- | --- |
 | Zaal 1 | 10,000 | 9,980 | 20 | 2 calls x 2 clips, 5 credits per clip. Listening and analysis free. |
 | Zaal 2 | 9,980 | 9,960 | 20 | 2 calls x 2 clips on v6. Listening free. |
+| Zaal 3 | 9,960 | 9,940 | 20 | 2 songs, 1 call each, 2 clips each, v6. |
 
 ## Adding a song
 
