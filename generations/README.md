@@ -37,3 +37,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 | Zaal (BetterCallZaal) | [003](zaal/gen-003-club-workout-bangers/) | Rep Count / Red Line | Club transformation | 4 songs generated, auto-reviewed, 20 credits |
 | Zaal (BetterCallZaal) | [Round B](zaal/round-b-wavewarz-red-line-dj/) | WaveWarZ Red Line DJ | Club transformation | 2 tracks generated, auto-reviewed, 10 credits |
 | Zaal (BetterCallZaal) | [Round C](zaal/round-c-wavewarz-open-floor/) | WaveWarZ Open Floor | Story lyrics (WaveWarZ, The ZAO, open source) | 2 tracks generated, auto-reviewed, 10 credits |
+| Zaal (BetterCallZaal) | [Round E](zaal/round-e-static-rising/) | Static Rising (lore Ch. 4) | Drift phonk (genre rotation) | 2 tracks generated, auto-reviewed, 10 credits |
