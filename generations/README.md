@@ -27,4 +27,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 
 | Creator | Gen | Track | Lens | Status |
 | --- | --- | --- | --- | --- |
-| Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | Inputs ready, takes pending |
+| Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | 4 songs generated, auto-reviewed |

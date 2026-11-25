@@ -1,6 +1,6 @@
 # Zaal's Generation 1 - WaveWarZ, the electric vibez (v2)
 
-**Creator:** Zaal (BetterCallZaal) · **Date:** 24 Nov 2026 · **Status:** inputs ready, takes pending
+**Creator:** Zaal (BetterCallZaal) · **Date:** 24 Nov 2026 · **Status:** 4 songs generated, auto-reviewed; Zaal's listen pending
 
 ## Brief
 
@@ -87,28 +87,31 @@ wave up
 
 | Take | Model | Variety | Weirdness | Style Influence | Max Mode | Change vs previous |
 | --- | --- | --- | --- | --- | --- | --- |
-| A | v6 | 0 | 50% | Strong | Off | Baseline |
-| B | v6-wild | 0 | 50% | Strong | Off | Model only (explore) |
+| A | v6 | 0 | 0.5 | 0.8 | Off | Baseline |
+| B | v6-wild | 0 | 0.5 | 0.8 | Off | Model only (explore) |
 
-One variable per take, per the skill's working loop. If Take B finds a better groove, carry it back to v6 in Generation 2.
+Generated through Suno's MCP server (`audio-create`, custom mode, `negative_style` = Exclude list) on 25 Nov 2026 UTC. Each call returns 2 songs, so each take has two clips. One variable per take, per the skill's working loop. If Take B finds a better groove, carry it back to v6 in Generation 2.
 
 ## Take log
 
-Fill in after generating.
+Scored by Suno's own listening model (`audio-listen`) against the brief. BPM and key are measured. This is a machine first pass; Zaal's ears are the final call.
 
-| Take | Link | Length | Hook lands? | House to Jersey switch? | Vocal / chant | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| A | | | | | | |
-| B | | | | | | |
+| Clip | Link | Length | BPM / key | House verses | Jersey club hook | Hook lands | Drums cut before drop | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A1 (v6) | [song](https://suno.com/song/c32c4845-f6e5-4068-9de3-52857ece7ccb) | 2:00 | 138.5 / D min | no | yes | yes | yes | Dry, present vocal, tight kick and bass. Verses lean rap / hip-hop. |
+| A2 (v6) | [song](https://suno.com/song/ba94abc6-6525-418c-8e87-4f6c5d0e3d51) | 1:55 | 140 / G min | no | yes | yes | yes | Clear call-and-response, crisp low end. Verses sparse hip-hop / trap. |
+| B1 (v6-wild) | [song](https://suno.com/song/4c2d2067-b8f4-4e15-bef9-7e9914050cd2) | 1:53 | 140 / F min | no | yes | partial | partial | Brighter, hook chopped rather than call-and-response; build instead of a full cut. |
+| B2 (v6-wild) | [song](https://suno.com/song/da3f0e32-d25d-42a4-a550-ae395c7eb154) | 2:24 | 140 / E min | partial | yes | yes | yes | Only clip with partial house feel in verses; verses lean halftime. Longest take. |
+
+No mispronunciations flagged on any clip; "electric vibez" and "WaveWarZ" came through clean.
 
 ## Lessons
 
-Fill in after listening.
-
-- Descriptors that clearly moved the result:
-- Descriptors or tags that were ignored:
-- Pronunciation fixes needed (respell, hyphenate):
-- One variable to change in Generation 2:
+- **Landed on every clip:** 140 BPM (3 of 4 exact), Jersey club bounce on the hook, dry punchy mix, no Exclude colors leaking in. Concrete production words ("dry punchy drums, tight mono low end") did their job.
+- **Landed on most:** drums cut before the drop (3 of 4) and the parenthesized call-and-response (3 of 4). Mirroring the style promise with `[Pre-Chorus: drums cut, rising claps]` looks like it helped.
+- **Ignored:** "four-on-the-floor house kick in the verses". 0 of 4 clear, 1 partial. The section tag `[Verse 1: four-on-the-floor, dry close vocal]` was not enough. At 140 BPM with "battle", "ruthless", "rhythmic lead vocal" in the brief, the model reads the verses as rap / halftime.
+- **v6 vs v6-wild:** v6 followed the hook brief more tightly (both clips land the call-and-response); v6-wild gave the one clip with any house in the verses (B2) but also the weakest hook (B1).
+- **Change for Generation 2 (one variable):** fix the verse groove. Move house to the front of the style identity line ("Deep-house-driven Jersey club, steady four-on-the-floor kick under every verse") and drop "rhythmic lead vocal" for "sung-chant lead vocal". Keep everything else, run on v6.
 
 ## Prompt checks (against `SKILL.md`)
 
