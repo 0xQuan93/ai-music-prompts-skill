@@ -11,7 +11,7 @@ generations/
       README.md   inputs, settings, take log, lessons
 ```
 
-One folder per generation, each with its own working title (never reuse an earlier generation's name). Suno clip titles: `<Working title> (Gen N <clip>)`. A generation is one prompt brief and the takes made from it. When you change the brief, start the next generation and link back to the one it came from.
+One folder per generation or round, each with its own working title (never reuse an earlier one). From Round B on: one Suno call per round makes two tracks, numbered 1 and 2, and each feedback round takes the next letter (B, C, D...); Suno titles `<Working title> (B1)`, `(B2)`. Every song is WaveWarZ-related. A generation is one prompt brief and the takes made from it. When you change the brief, start the next generation and link back to the one it came from.
 
 ## What each generation records
 
@@ -35,3 +35,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 | Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | Done, Zaal picked Take A (v6), 20 credits |
 | Zaal (BetterCallZaal) | [002](zaal/gen-002-electric-vibez-v2-clear-vocals/) | Electric Vibez: Clear Signal | Club transformation + Rubin reducer | 4 songs generated, auto-reviewed, 20 credits |
 | Zaal (BetterCallZaal) | [003](zaal/gen-003-club-workout-bangers/) | Rep Count / Red Line | Club transformation | 4 songs generated, auto-reviewed, 20 credits |
+| Zaal (BetterCallZaal) | [Round B](zaal/round-b-wavewarz-red-line-dj/) | WaveWarZ Red Line DJ | Club transformation | 2 tracks generated, auto-reviewed, 10 credits |
