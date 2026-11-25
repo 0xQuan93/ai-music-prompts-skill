@@ -101,7 +101,7 @@ Scored by Suno's listening model (`audio-listen`), 1 to 5. Machine first pass; Z
 - **C1 is the first 5 of 5 club-ready score** across all 16 tracks so far.
 - **Real lyrics came through:** "blockchain" is clear on both, and "WaveWarZ" is clear (sung as "Wave Wars").
 - **Suno still adds repetition we didn't write.** C1 stutters and loops hook words heavily, C2 repeats "built for you and me". `vocal chops` and `repetitive chant loops` in Exclude did not stop it.
-- **"The ZAO" needs a pronunciation spelling.** C1 sang "ZAY-oh"; C2 turned it into "Desire". Next round: write it the way it should sound (for example `The Zow` or `The Z-A-O`) once Zaal confirms.
+- **"The ZAO" needs a pronunciation spelling.** C1 sang "ZAY-oh"; C2 turned it into "Desire". **Zaal, 25 Nov 2026: it sounds like "The Zow"** (rhymes with now). From Round D on, lyrics spell it `The Zow`.
 - **Next (one variable):** respell "The ZAO" phonetically. For the repetition, try `Weirdness 0.35` in a later round, or cut the extra repeats in post.
 
 ## Post-production
