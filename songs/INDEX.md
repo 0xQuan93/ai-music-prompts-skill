@@ -14,6 +14,7 @@ One row per generation. The full record (style prompt, lyrics, Exclude list, set
 | Red Line | Zaal 3 | 25 Nov 2026 | v6 | 2 | 10 | Pending (B2 cleanest vocal) | Not started | [gen-003](../generations/zaal/gen-003-club-workout-bangers/) |
 | WaveWarZ Red Line DJ | Round B | 25 Nov 2026 | v6 | 2 | 10 | Pending | DJ edit needed (intro/outro) | [round-b](../generations/zaal/round-b-wavewarz-red-line-dj/) |
 | WaveWarZ Open Floor | Round C | 25 Nov 2026 | v6 | 2 | 10 | Pending (C1 club 5/5) | Not started | [round-c](../generations/zaal/round-c-wavewarz-open-floor/) |
+| Patch It Live (lore Ch. 5) | Round D | 25 Nov 2026 | v6 | 4 | 20 | Bot pick D1; Zaal pending | Not started | [round-d](../generations/zaal/round-d-patch-it-live/) |
 
 ## Credit ledger (Suno)
 
@@ -26,6 +27,7 @@ Running balance, one line per generation. Read credits with Suno's account usage
 | Zaal 3 | 9,960 | 9,940 | 20 | 2 songs, 1 call each, 2 clips each, v6. |
 | Round B | 9,940 | 9,930 | 10 | 1 call, 2 tracks, 4-minute target. 1 call rejected by Suno's copyright filter, not charged. |
 | Round C | 9,930 | 9,920 | 10 | 1 call, 2 tracks. |
+| Round D | 9,920 | 9,900 | 20 | 2 calls, 4 tracks (D1-D4). Lore Chapter 5. Order ORD-602. |
 
 ## Adding a song
 
