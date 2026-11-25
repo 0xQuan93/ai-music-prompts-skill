@@ -60,6 +60,7 @@ Platform features change. Prefer official help pages linked in `research-notes.m
 - `examples/dark-trap.md` — a complete dark atmospheric trap prompt
 - `generations/` - a log of real tracks made with the skill: exact inputs, settings, takes, and lessons (starting with Zaal's Generation 1)
 - `songs/INDEX.md` - song index and Suno credit ledger: how every song was made, what it cost, what was done after
+- `lessons/` - learn production by comparing our own generations, with timestamps
 - `POST-GEN.md` - draft checklist for turning a generated clip into a finished song
 - `LICENSE` — MIT
 
