@@ -1,6 +1,6 @@
 # Zaal's Generation 1 - WaveWarZ, the electric vibez (v2)
 
-**Creator:** Zaal (BetterCallZaal) · **Date:** 24 Nov 2026 · **Status:** 4 songs generated, auto-reviewed; Zaal's listen pending
+**Creator:** Zaal (BetterCallZaal) · **Date:** 24 Nov 2026 · **Status:** done; Zaal picked Take A (v6). Continued in [Generation 2](../gen-002-electric-vibez-v2-clear-vocals/)
 
 ## Brief
 
@@ -125,7 +125,7 @@ Scoring with Suno's listener (`audio-listen`) and reading the analysis cost 0 cr
 
 ## Zaal's pick
 
-Pending. Fill in: clip, why, and what to carry into Generation 2.
+**Take A (v6), clips A1 and A2, over Take B.** Zaal, 25 Nov 2026: "All 4 songs were good, A was better. But one of the goals is to showcase vocals on these tracks and clean them up, and make it not sound like AI vocals." Carried into Generation 2: v6 only, fewer vocals, focus on vocal clarity.
 
 ## Post-production
 
