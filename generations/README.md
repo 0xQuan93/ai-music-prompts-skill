@@ -20,6 +20,11 @@ One folder per generation. A generation is one prompt brief and the takes made f
 3. **Settings** - model (v6 / v6-wild / v6-mini), Variety, Weirdness, Style Influence, Max Mode, Persona, Cover/Remaster source.
 4. **Take log** - one row per take: link, length, what landed, what missed.
 5. **Lessons** - which descriptors or tags moved the result, which were ignored, and the one variable to change next.
+6. **Credits** - Suno balance before and after, credits used, calls, clips, models.
+7. **Pick** - which clip was chosen and why.
+8. **Post-production** - every step after generation (stems, WAV, edits, mix, master), who did it, and where the final file lives. See [`POST-GEN.md`](../POST-GEN.md).
+
+Every generation also gets a row in [`songs/INDEX.md`](../songs/INDEX.md).
 
 Keep it honest: if a tag did nothing, say so. That is the useful part.
 
@@ -27,4 +32,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 
 | Creator | Gen | Track | Lens | Status |
 | --- | --- | --- | --- | --- |
-| Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | 4 songs generated, auto-reviewed |
+| Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | 4 songs generated, auto-reviewed, 20 credits |

@@ -113,6 +113,34 @@ No mispronunciations flagged on any clip; "electric vibez" and "WaveWarZ" came t
 - **v6 vs v6-wild:** v6 followed the hook brief more tightly (both clips land the call-and-response); v6-wild gave the one clip with any house in the verses (B2) but also the weakest hook (B1).
 - **Change for Generation 2 (one variable):** fix the verse groove. Move house to the front of the style identity line ("Deep-house-driven Jersey club, steady four-on-the-floor kick under every verse") and drop "rhythmic lead vocal" for "sung-chant lead vocal". Keep everything else, run on v6.
 
+## Credits
+
+Read from Suno's account usage (`account-usage`) right before and after the generation calls.
+
+| Credits before | Credits after | Used | Calls | Clips | Models | Per clip |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10,000 | 9,980 | 20 | 2 | 4 | v6 (2 clips), v6-wild (2 clips) | 5 |
+
+Scoring with Suno's listener (`audio-listen`) and reading the analysis cost 0 credits. Max Mode off.
+
+## Zaal's pick
+
+Pending. Fill in: clip, why, and what to carry into Generation 2.
+
+## Post-production
+
+Nothing done yet. Use [`POST-GEN.md`](../../../POST-GEN.md) as the checklist and log each step here.
+
+| Step | What was done | Tool | Who | Output file / location |
+| --- | --- | --- | --- | --- |
+| Stems / WAV export | | | | |
+| Edits (crop, fades, section swaps) | | | | |
+| Mix | | | | |
+| Master | | | | |
+| Final file | | | | |
+
+Songs stay private in Suno; nothing published.
+
 ## Prompt checks (against `SKILL.md`)
 
 - Style is sound only; no `[Verse]` tags in the style field.
