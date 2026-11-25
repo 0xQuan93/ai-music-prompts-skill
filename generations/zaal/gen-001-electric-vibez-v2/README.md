@@ -2,6 +2,8 @@
 
 **Creator:** Zaal (BetterCallZaal) · **Date:** 24 Nov 2026 · **Status:** done; Zaal picked Take A (v6). Continued in [Generation 2](../gen-002-electric-vibez-v2-clear-vocals/)
 
+**Suno titles:** `WaveWarZ, the electric vibez v2 (Gen 1 <clip>)`, one per clip (renamed 25 Nov 2026; both clips of a take had shared one title).
+
 ## Brief
 
 Second version of "WaveWarZ, the electric vibez", the most-battled track on WaveWarZ (38 battles, 21W / 17L as of Jul 2026). v1 sits around 125 BPM. v2 goal: a house / Jersey club banger built for battle rooms: one chantable hook, a physical groove, and a switch from four-on-the-floor house into Jersey club bounce.

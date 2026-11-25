@@ -9,7 +9,7 @@ One row per generation. The full record (style prompt, lyrics, Exclude list, set
 | Song / working title | Gen | Date | Model(s) | Clips | Credits used | Pick | Post-production | Record |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WaveWarZ, the electric vibez (v2) | Zaal 1 | 25 Nov 2026 | v6, v6-wild | 4 | 20 | Take A (v6) | Not started | [gen-001](../generations/zaal/gen-001-electric-vibez-v2/) |
-| WaveWarZ, the electric vibez (v2), clear vocals | Zaal 2 | 25 Nov 2026 | v6 | 4 | 20 | Pending (A2 scored best) | Not started | [gen-002](../generations/zaal/gen-002-electric-vibez-v2-clear-vocals/) |
+| Electric Vibez: Clear Signal | Zaal 2 | 25 Nov 2026 | v6 | 4 | 20 | Pending (A2 scored best) | Not started | [gen-002](../generations/zaal/gen-002-electric-vibez-v2-clear-vocals/) |
 
 ## Credit ledger (Suno)
 
@@ -22,6 +22,7 @@ Running balance, one line per generation. Read credits with Suno's account usage
 
 ## Adding a song
 
+0. Give the generation its own working title. Never reuse an earlier generation's name. In Suno, title each clip `<Working title> (Gen N <clip>)`, e.g. `Electric Vibez: Clear Signal (Gen 2 A2)`.
 1. Create `generations/<creator>/gen-NNN-<slug>/README.md` from the sections in [`generations/README.md`](../generations/README.md).
 2. Read the credit balance before generating; log it.
 3. Generate, score each clip, read the balance again.

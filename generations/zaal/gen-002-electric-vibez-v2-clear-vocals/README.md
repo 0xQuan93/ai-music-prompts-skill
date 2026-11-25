@@ -1,6 +1,8 @@
-# Zaal's Generation 2 - WaveWarZ, the electric vibez (v2), clear vocals
+# Zaal's Generation 2 - Electric Vibez: Clear Signal
 
 **Creator:** Zaal (BetterCallZaal) · **Date:** 25 Nov 2026 · **Status:** 4 songs generated, auto-reviewed; Zaal's pick pending · **From:** [Generation 1](../gen-001-electric-vibez-v2/) (Zaal picked Take A, v6)
+
+**Naming:** each generation gets its own working title. Gen 2 was first saved in Suno under Gen 1's name ("WaveWarZ, the electric vibez (v2) - Gen 2 Take A/B"); renamed 25 Nov 2026 to `Electric Vibez: Clear Signal (Gen 2 <clip>)`, one title per clip.
 
 ## Brief
 

@@ -11,7 +11,7 @@ generations/
       README.md   inputs, settings, take log, lessons
 ```
 
-One folder per generation. A generation is one prompt brief and the takes made from it. When you change the brief, start the next generation and link back to the one it came from.
+One folder per generation, each with its own working title (never reuse an earlier generation's name). Suno clip titles: `<Working title> (Gen N <clip>)`. A generation is one prompt brief and the takes made from it. When you change the brief, start the next generation and link back to the one it came from.
 
 ## What each generation records
 
@@ -33,4 +33,4 @@ Keep it honest: if a tag did nothing, say so. That is the useful part.
 | Creator | Gen | Track | Lens | Status |
 | --- | --- | --- | --- | --- |
 | Zaal (BetterCallZaal) | [001](zaal/gen-001-electric-vibez-v2/) | WaveWarZ, the electric vibez (v2, house / Jersey club) | Club transformation | Done, Zaal picked Take A (v6), 20 credits |
-| Zaal (BetterCallZaal) | [002](zaal/gen-002-electric-vibez-v2-clear-vocals/) | WaveWarZ, the electric vibez (v2), clear vocals | Club transformation + Rubin reducer | 4 songs generated, auto-reviewed, 20 credits |
+| Zaal (BetterCallZaal) | [002](zaal/gen-002-electric-vibez-v2-clear-vocals/) | Electric Vibez: Clear Signal | Club transformation + Rubin reducer | 4 songs generated, auto-reviewed, 20 credits |
