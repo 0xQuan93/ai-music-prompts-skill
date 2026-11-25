@@ -60,6 +60,7 @@ Platform features change. Prefer official help pages linked in `research-notes.m
 - `examples/dark-trap.md` — a complete dark atmospheric trap prompt
 - `generations/` - a log of real tracks made with the skill: exact inputs, settings, takes, and lessons (starting with Zaal's Generation 1)
 - `songs/INDEX.md` - song index and Suno credit ledger: how every song was made, what it cost, what was done after
+- `research/genres.md` - genre guide: tempo, rhythm, signature sounds and Suno starters for techno, trance, dubstep, UK garage, DnB, amapiano, baile funk, phonk and more
 - `research/music-basics.md` - the building blocks of a track, house and Jersey club basics, and how each maps to Suno prompt words
 - `lessons/` - learn production by comparing our own generations, with timestamps
 - `POST-GEN.md` - draft checklist for turning a generated clip into a finished song
