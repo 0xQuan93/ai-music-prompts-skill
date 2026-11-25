@@ -1,6 +1,6 @@
 # Zaal's Generation 2 - Electric Vibez: Clear Signal
 
-**Creator:** Zaal (BetterCallZaal) · **Date:** 25 Nov 2026 · **Status:** 4 songs generated, auto-reviewed; Zaal's pick pending · **From:** [Generation 1](../gen-001-electric-vibez-v2/) (Zaal picked Take A, v6)
+**Creator:** Zaal (BetterCallZaal) · **Date:** 25 Nov 2026 · **Status:** done; Zaal picked none · **From:** [Generation 1](../gen-001-electric-vibez-v2/) (Zaal picked Take A, v6)
 
 **Naming:** each generation gets its own working title. Gen 2 was first saved in Suno under Gen 1's name ("WaveWarZ, the electric vibez (v2) - Gen 2 Take A/B"); renamed 25 Nov 2026 to `Electric Vibez: Clear Signal (Gen 2 <clip>)`, one title per clip.
 
@@ -127,7 +127,7 @@ Artifact notes:
 
 ## Zaal's pick
 
-Pending.
+**None.** Zaal, 25 Nov 2026: "honestly none of them, there's a lot more work to do here."
 
 ## Post-production
 
@@ -150,9 +150,9 @@ Nothing done yet. Suggested cleanup for the picked clip (see [`POST-GEN.md`](../
 
 Songs stay private in Suno; nothing published.
 
-## Open questions for Zaal
+## Open questions for Zaal (answered 25 Nov 2026: no to all three for now)
 
-Not used in this generation; each needs his yes (credits or a change to the song):
+Zaal: "not now, let's just get better at seeing what the outputs are for the inputs we put in"; "no, I need cheapest usage of credits for starting out"; "no, I want to experiment today".
 
 - **Max Mode** - SKILL.md says it helps vocal and style consistency; costs a multiple of the song's credits.
 - **Subtle Remaster** of the picked clip - aimed at vocal clarity without changing the song.

@@ -9,7 +9,7 @@ One row per generation. The full record (style prompt, lyrics, Exclude list, set
 | Song / working title | Gen | Date | Model(s) | Clips | Credits used | Pick | Post-production | Record |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WaveWarZ, the electric vibez (v2) | Zaal 1 | 25 Nov 2026 | v6, v6-wild | 4 | 20 | Take A (v6) | Not started | [gen-001](../generations/zaal/gen-001-electric-vibez-v2/) |
-| Electric Vibez: Clear Signal | Zaal 2 | 25 Nov 2026 | v6 | 4 | 20 | Pending (A2 scored best) | Not started | [gen-002](../generations/zaal/gen-002-electric-vibez-v2-clear-vocals/) |
+| Electric Vibez: Clear Signal | Zaal 2 | 25 Nov 2026 | v6 | 4 | 20 | None (Zaal: more work to do) | Not started | [gen-002](../generations/zaal/gen-002-electric-vibez-v2-clear-vocals/) |
 | Rep Count | Zaal 3 | 25 Nov 2026 | v6 | 2 | 10 | Pending | Not started | [gen-003](../generations/zaal/gen-003-club-workout-bangers/) |
 | Red Line | Zaal 3 | 25 Nov 2026 | v6 | 2 | 10 | Pending (B2 cleanest vocal) | Not started | [gen-003](../generations/zaal/gen-003-club-workout-bangers/) |
 | WaveWarZ Red Line DJ | Round B | 25 Nov 2026 | v6 | 2 | 10 | Pending | DJ edit needed (intro/outro) | [round-b](../generations/zaal/round-b-wavewarz-red-line-dj/) |
