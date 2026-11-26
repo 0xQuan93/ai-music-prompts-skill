@@ -17,6 +17,8 @@ One row per generation. The full record (style prompt, lyrics, Exclude list, set
 | Patch It Live (lore Ch. 5) | Round D | 25 Nov 2026 | v6 | 4 | 20 | Bot pick D1; Zaal pending | Not started | [round-d](../generations/zaal/round-d-patch-it-live/) |
 | Static Rising (lore Ch. 4) | Round E | 25 Nov 2026 | v6 | 2 | 10 | Pending (drift phonk missed: no cowbell) | Not started | [round-e](../generations/zaal/round-e-static-rising/) |
 | Genre sampler: Log on the Fire, One More Wave, Afterglow, Signal's Clean, Zow Zow | Round F | 25 Nov 2026 | v6 | 10 | 50 | Zaal listening | Not started | [round-f](../generations/zaal/round-f-genre-sampler/) |
+| Crown the Wave (lore Ch. 7) | Round G | 25 Nov 2026 | v6 | 2 | 10 | Zaal listening | Not started | [round-g](../generations/zaal/round-g-crown-the-wave/) |
+| Hearth Heat | Round H | 25 Nov 2026 | v6 | 2 | 10 | Zaal listening | Not started | [round-h](../generations/zaal/round-h-hearth-heat/) |
 
 ## Credit ledger (Suno)
 
@@ -32,6 +34,8 @@ Running balance, one line per generation. Read credits with Suno's account usage
 | Round D | 9,920 | 9,900 | 20 | 2 calls, 4 tracks (D1-D4). Lore Chapter 5. Order ORD-602. |
 | Round E | 9,900 | 9,890 | 10 | 1 call, 2 tracks. Lore Chapter 4. |
 | Round F | 9,890 | 9,840 | 50 | 5 calls, 10 tracks, 5 genres (deep house, DnB, amapiano, trance, baile funk). |
+| Round G | 9,840 | 9,830 | 10 | 1 call, drum and bass. |
+| Round H | 9,830 | 9,820 | 10 | 1 call, deep house. |
 
 ## Adding a song
 
